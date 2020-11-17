@@ -19,7 +19,7 @@ Original points in blue, Outer Ellipsoid in Green Wireframe and Inner Ellipsoid 
 ![image](https://user-images.githubusercontent.com/20581812/99433589-fcf28d00-290d-11eb-8b0c-d2c6b975cc53.png)
 
 
-
+The code was created with the help of many StackOverflow answers and helpful users. Solution in `max_inner_ellipsoid_v2.py` was designed by [Hongkai-Dai](https://github.com/hongkai-dai/large_inscribed_ellipsoid)
 
 
 
