@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Raluca Sandu
+@author: Hongkai-Dai
 """
 
 from scipy.spatial import ConvexHull, Delaunay
